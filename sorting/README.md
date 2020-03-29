@@ -15,4 +15,4 @@ Iterative Quick Sort     | |1.541 ms
 Recursive Merge Sort     | |8.742 ms
 Heap Sort      | |2.406 ms
 Counting Sort  | |0.173 ms
-Radix Sort     | |0.610 ms | slower than counting sort because data range is small
+Radix Sort (64 based)    | |0.610 ms | slower than counting sort because data range is small

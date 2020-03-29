@@ -39,7 +39,7 @@ void counting_sort_with_exp(vector<int> &v, int base, int min, int exp){
 
 void radix_sort(vector<int> &v, int min){
     int max = get_max(v)-min;
-    // for 64-based integar
+    // for 64-based integer
     int base = 64;
     for(int exp=1; max/exp>0; exp*=base){
         counting_sort_with_exp(v, base, min, exp);
