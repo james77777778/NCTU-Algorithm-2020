@@ -6,7 +6,7 @@
 
 ## Comparison Table
 Algorithm      | Time Complexity  | Time | Note |
----------------|:----------------:|-----:|-----:|
+---------------|:-----------------|------|------|
 Bubble Sort    | |789.736 ms
 Selection Sort | |213.147 ms
 Insertion Sort | |120.945 ms
